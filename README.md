@@ -1,2 +1,11 @@
 # FB_CSG_DEMO
-Freebasic Demo for simple CSG application (Cosntructive Solid Geometry)
+Freebasic Demo for simple CSG application (Constructive Solid Geometry)
+
+
+Simple demo for CSG (Constructive Solid Geometry), to see 
+simple CSG demo (Constructive Solid Geometry) to see the possible effects of adding or subtracting solid bodies from each other. OPENGL is used to achieve the effects.
+-----
+simple demo CSG (Construcción de Geometría de Sólidos) para ver los posibles efectos al sumar o restar cuerpos sólidos entre ellos. Se emplea OPENGL para lograr los efectos.
+
+
+![Imagen ejemplo_csg_fb.png](https://github.com/jepalza/FB_CSG_DEMO/blob/main/pictures/ejemplo_csg_fb.jpg)
