@@ -6,5 +6,4 @@ OPENGL is used to achieve the effects.
 
 simple demo CSG (Construcción de Geometría de Sólidos) para ver los posibles efectos al sumar o restar cuerpos sólidos entre ellos. Se emplea OPENGL para lograr los efectos.
 
-
-![Imagen ejemplo_csg_fb.png](https://github.com/jepalza/FB_CSG_DEMO/blob/main/ejemplo_csg_fb.jpg)
+![Imagen ejemplo_csg_fb.png](https://github.com/jepalza/FB_CSG_DEMO/blob/main/ejemplo_csg_fb.png)
